@@ -1,4 +1,4 @@
-emails = ["email1", "email2"]
+emails = ["email1"]
 for i in 1..51
   if i >= 10
     emails << "jean.dupont.#{i}@email.fr"
