@@ -12,8 +12,8 @@ for i in annee..adj
         annee=annee+1
 	age=age+1
 	else
-puts "#{annee}: Il y a #{adj-annee} ans tu avais #{age} ans" 
-annee=annee+1 
-age=age+1
-end
+        puts "#{annee}: Il y a #{adj-annee} ans tu avais #{age} ans" 
+        annee=annee+1 
+        age=age+1
+        end
 end
